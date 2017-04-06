@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SMSGateWayPrototype</string>
+    <string name="serverip">Server IP:</string>
+<!-- Errors -->
+  	<string name="conn_refuse">Connection attempt to Services was rejected. The services may be down, or your network may not be properly configured</string>
+    
+</resources>
